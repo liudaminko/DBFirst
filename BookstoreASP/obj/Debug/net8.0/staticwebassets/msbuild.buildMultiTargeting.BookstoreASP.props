@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookstoreASP.props" />
+</Project>
